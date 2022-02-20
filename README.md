@@ -1,2 +1,2 @@
 # git_test
-The first repo that I make :D
+The first repo that I made :D
